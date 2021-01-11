@@ -1,4 +1,4 @@
-# a2-starter
+# Introduction
 
 Run the main Flask module by running `python3 PizzaParlour.py`
 
